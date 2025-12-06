@@ -8,13 +8,9 @@ This system provides real-time seat availability and a structured booking proces
 
 # Key Features
 ## Feature	                                                                    Description
-Smart Seat Booking	                                               Students can book a seat before boarding.
-Live Crowd Density	                                               Displays seat occupancy levels (Low, Medium, High).
-Route and Timing Display	                                       Uses official college bus routes and schedules.
-Booking Records	                                                   Maintains booking history for each register number.
-Capacity Display	                                               Shows total, booked, and remaining seats.
-Modern Interface	                                               Clean and simple dashboard with organized layout.
+The system provides a structured bus seat booking process that enables students to reserve a seat before boarding, removing the need for rushing or marking seats with bags. It offers real-time seat availability by displaying the total number of seats, seats already booked, and the remaining capacity for each bus trip. Bus crowd levels are monitored and shown clearly as Low, Medium, or High, allowing students to make informed boarding decisions. The platform operates using official route names, bus numbers, and transport timings provided by the institution, ensuring accurate and valid trip information.
 
+Each booking is stored in the system and linked to the student’s register number, which allows verification and provides a record history when needed. The system supports both morning and evening trips, reflecting the regular college transport schedule. All active bus trips are presented in a simple and organized dashboard so that users can quickly view booking status, seat availability, and bus details. Seat numbers are assigned automatically in the order of booking to maintain fairness and avoid manual adjustments. Booking status is recorded as Booked, Cancelled, or Checked-In, ensuring that seat usage and entry can be tracked precisely. The overall interface is designed to be clear and easy to navigate, focusing on accessibility and comfort rather than complex visual elements.
 # Technology Used
 
 ## Frontend
